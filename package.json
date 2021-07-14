@@ -1,0 +1,19 @@
+{
+  "name": "bagley",
+  "version": "1.1.2",
+  "description": "",
+  "engines": {
+    "node": "6.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "r3tr0",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "github:discordjs/discord.js",
+    "discord.js-commando": "github:discordjs/Commando"
+  }
+}
